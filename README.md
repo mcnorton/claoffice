@@ -21,6 +21,11 @@ Claude Code를 쓰는 프로젝트마다 층이 생기고, 그 안에서 Claude�
 
 Cloffice turns Claude Code activity into an isometric 3D office. Each project is a floor, and Claude and its subagents walk between rooms as they read files, edit code, run commands and search the web. It reads your local session logs only and never changes them. The interface is in Korean.
 
+## 이름의 뜻
+**Cloffice**는 **Cl**oset(옷장)과 c**L**aude c**O**de o**FFICE**(Claude Code 사무실)를 합친 이름입니다. 옷장 하나를 비워 꾸민 작은 사무실이라는 뜻입니다. 책상은 넷뿐이고 방도 작지만, 자료실부터 서버실과 회의실까지 일에 필요한 방은 다 갖췄습니다. 그 안에서 Claude와 서브에이전트가 오가며 일합니다.
+
+*Cloffice = **Cl**oset + c**L**aude c**O**de o**FFICE**: a small office built inside a closet, where Claude Code and its subagents go about their work.*
+
 ## 주요 기능
 - **프로젝트별 층:** 최근 7일 안에 쓴 프로젝트가 층으로 나타나고, 쓰지 않는 층은 목록에서 지울 수 있습니다.
 - **Cowork 층:** Claude 데스크탑 앱의 Cowork 세션은 맨 위의 층 하나에 모입니다.
