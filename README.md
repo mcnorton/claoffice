@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/icon.png" width="128" height="128" alt="Claoffice 앱 아이콘">
+  <img src="assets/icon.png" width="128" height="128" alt="Cloffice 앱 아이콘">
 </p>
 
-<h1 align="center">Claoffice</h1>
+<h1 align="center">Cloffice</h1>
 
 <p align="center">
   <strong>Claude Code가 일하는 모습을 3D 사무실로 보여 주는 macOS 앱</strong><br>
@@ -10,16 +10,16 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/mcnorton/claoffice/releases/latest"><strong>최신 버전 다운로드</strong></a>
+  <a href="https://github.com/mcnorton/cloffice/releases/latest"><strong>최신 버전 다운로드</strong></a>
 </p>
 
-![Claoffice 데모 화면: 3D 사무실에서 Claude와 서브에이전트가 방을 오가며 일하고, 왼쪽에 프로젝트별 층 목록, 오른쪽에 직원 상태와 활동 로그가 보입니다](assets/screenshot.png)
+![Cloffice 데모 화면: 3D 사무실에서 Claude와 서브에이전트가 방을 오가며 일하고, 왼쪽에 프로젝트별 층 목록, 오른쪽에 직원 상태와 활동 로그가 보입니다](assets/screenshot.png)
 
 *데모 데이터로 찍은 화면입니다.*
 
 Claude Code를 쓰는 프로젝트마다 층이 생기고, 그 안에서 Claude와 서브에이전트가 방을 오가며 일합니다. 터미널 로그를 따라가지 않아도 지금 어떤 세션이 파일을 읽는지, 코드를 고치는지, 명령을 실행하는지 한눈에 보입니다.
 
-Claoffice turns Claude Code activity into an isometric 3D office. Each project is a floor, and Claude and its subagents walk between rooms as they read files, edit code, run commands and search the web. It reads your local session logs only and never changes them. The interface is in Korean.
+Cloffice turns Claude Code activity into an isometric 3D office. Each project is a floor, and Claude and its subagents walk between rooms as they read files, edit code, run commands and search the web. It reads your local session logs only and never changes them. The interface is in Korean.
 
 ## 주요 기능
 - **프로젝트별 층:** 최근 7일 안에 쓴 프로젝트가 층으로 나타나고, 쓰지 않는 층은 목록에서 지울 수 있습니다.
@@ -30,7 +30,7 @@ Claoffice turns Claude Code activity into an isometric 3D office. Each project i
 - **자동 업데이트:** 새 버전이 나오면 버튼 하나로 업데이트합니다.
 
 ## 다운로드
-**[Release 페이지](https://github.com/mcnorton/claoffice/releases/latest)**에서 `claoffice_<버전>_universal.dmg`를 받으세요. Apple의 공증을 받은 앱입니다.
+**[Release 페이지](https://github.com/mcnorton/cloffice/releases/latest)**에서 `Cloffice_<버전>_universal.dmg`를 받으세요. Apple의 공증을 받은 앱입니다.
 
 ## 필요한 것
 - macOS 13 이상 (Apple Silicon, Intel)
@@ -38,8 +38,8 @@ Claoffice turns Claude Code activity into an isometric 3D office. Each project i
 
 ## 설치
 1. 받은 DMG를 엽니다.
-2. `claoffice`를 `Applications` 폴더로 끌어다 놓습니다.
-3. 응용 프로그램에서 Claoffice를 엽니다.
+2. `Cloffice`를 `Applications` 폴더로 끌어다 놓습니다.
+3. 응용 프로그램에서 Cloffice를 엽니다.
 
 Claude 폴더(보통 `~/.claude`)는 스스로 찾습니다. 찾지 못하면 왼쪽의 **폴더 선택** 버튼으로 고르세요.
 
@@ -51,4 +51,4 @@ Claude 폴더(보통 `~/.claude`)는 스스로 찾습니다. 찾지 못하면 �
 - 네트워크는 업데이트를 확인하고 받을 때만 씁니다. 이때 GitHub에 다운로드 요청만 보내고, Claude Code 기록은 어디로도 보내지 않습니다.
 
 ## 안내
-Claoffice는 개인 프로젝트이며 Anthropic의 공식 제품이 아닙니다. 이 저장소는 배포 전용이라 소스 코드는 없습니다.
+Cloffice는 개인 프로젝트이며 Anthropic의 공식 제품이 아닙니다. 이 저장소는 배포 전용이라 소스 코드는 없습니다.
